@@ -1,23 +1,30 @@
 # PARS: Performance-driven Adam-based Resilient Scaffold for Federated Learning
 
-This repository contains the official implementation of **PARS**, a federated learning method proposed in the submitted manuscript:
+This repository contains the **official implementation** of **PARS**, a federated learning method published in:
 
-**"PARS: Performance-driven Adam-based Resilient Scaffold for Federated Learning"**  
-*Emin Akpinar, 2026 (Under Review)*
+**PARS: Performance-driven Adam-based Resilient Scaffold for Federated Learning**  
+Emin Akpinar, Murat Taskiran, Bulent Bolat  
+*Information Sciences*, 2026
 
-## ⚠️ Important Notice
-
-This repository is part of a **manuscript currently under peer review**.
-
-- The code is provided **solely for the purpose of peer review**.
-- **Unauthorized use, reproduction, redistribution, or adaptation is strictly prohibited.**
-- Do not reuse any part of this code in your own work without explicit permission from the author.
-
-## License
-
-This project is protected by a custom license. See `LICENSE.txt` for details.
+📄 **Published Article**  
+https://www.sciencedirect.com/science/article/pii/S0020025526003051
 
 ---
+
+## 📌 Citation
+
+If you use this code or build upon the PARS method, **please cite the following paper**:
+
+```bibtex
+@article{akpinar2026pars,
+  title={PARS: Performance-driven adam-based resilient scaffold for federated learning},
+  author={Akpinar, Emin and Taskiran, Murat and Bolat, Bulent},
+  journal={Information Sciences},
+  pages={123374},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 
 ## Contact
 
